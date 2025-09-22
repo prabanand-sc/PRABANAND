@@ -1,0 +1,177 @@
+                       PRABANAND.S .C
+	
+Ph. No    :  +91 9791456452
+
+E-mail     :  scprabanand@gmail.com
+                                                              	
+Objective:
+
+Having 10+ years of experience in academics, I am seeking a challenging and growth-oriented position in an educational institution that will utilise my skills and benefit both my employer and myself.
+ 
+Educational Qualification:       
+
+Degree 				:  Doctor of Philosophy (Pursuing) [Ph.D]
+University				:  Anna University, Chennai.
+Degree 				:  Master of Technology in Information Technology [M.Tech-IT]
+College 				:  SNS College of Technology, Coimbatore.
+CGPA & Year of Passing		:  7.71 CGPA (First Class) & June 2013
+
+Degree 				:  Bachelor of Technology in Information Technology [B.Tech-IT]
+College 				:  Adhiparasakthi Engineering College, Chennai.
+% marks & Year of Passing		:  61% (First Class) & June 2010
+
+HSC					: St. Mary’s Higher Secondary School, Dindigul.
+% Marks & Year of Passing		:  85.08% & April 2006
+
+SSLC					: St. Mary’s Higher Secondary School, Dindigul.
+% Marks & Year of Passing		:  77.6% & April 2004
+
+Professional Experience: 
+
+Assistant Professor 							Jan 2022-Present 
+At Bannari Amman Institute of Technology, Sathyamangalam. In the Department of Artificial Intelligence and Data Science.
+Assistant Professor							Jun 2014-Jan 2022
+At Nadar Saraswathi College of Engineering and Technology, Theni. In the Department of Computer Science and Engineering.
+
+Database Administrator-Oracle 					Aug 2013-Jun 2014
+At Lyceum InfoTech, Dindigul.
+
+I have implemented new technology and collaborated with developers and project managers. 
+
+Consultancy Services:
+
+     AI-based People Counting System—Codissia, Coimbatore. 
+●	We are counting the number of persons at both (front and back) registration entrances of Agritech 2024 through three cameras, of which two are at the front entrance and one at the back entrance.
+●	AI-based systems count and update the data on local and cloud storage when people cross a specific line.
+●	The AI-based People Counting System will generate the report based on the requirements of the collected information.
+ 
+Achievements: 
+●	Awarded a Certificate of Mentorship by the Thoothukudi District Police for a student-led project. Guided the design of a smart traffic system for real-time monitoring during the Thiruchendur Subramania Swamy Temple Kumbabishekam.
+●	I serve as the mentor for the AI special lab team. We have won the Runner of the “Smart India Hackathon, 2023,” Software Edition held at OP Jindal University, Chhattisgarh.
+●	I serve as the mentor for the AI special lab team. We have won the “Smart India Hackathon, 2022,” Hardware Edition, and awarded one lakh rupees held at Galgotias University, Nodia.
+●	I serve as the mentor for the NSCET CSE team. We secured the 1st runner-up position in the "Smart India Hackathon, 2019," Software Edition, which took place at GIMT, Assam.
+Resource Person:
+●	Have given a guest lecture on “Python & its Application” to the students of Solamalai College of Engineering, Madurai.
+●	Resource Person & Speaker: Presented on "AI-Powered Smart Contracts" at the Faculty Development Programme on Blockchain & AI, hosted by Kamaraj College of Engineering and Technology.
+
+Areas of Interest: 
+●	Blockchain
+●	Artificial Intelligence 
+
+Technical Certifications: 
+
+
+Certification 		:  Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+Institution		:  Oracle
+
+Certification 		:  Fundamentals of MCP
+Institution		:  Hugging Face
+
+Certification 		:  AI Agents Fundamentals
+Institution		:  Hugging Face
+
+Certification 		:  NVIDIA DLI Certificate-Introduction to Transformer-Based Natural Language Processing
+Institution		:  NVIDIA Deep Learning Institute
+
+Certification 		:  NVIDIA DLI Certificate—Building Video AI Applications at the Edge on Jetson Nano
+Institution		:  NVIDIA Deep Learning Institute
+
+Certification 		:  NVIDIA DLI Certificate—Building Real-Time Video AI Applications
+Institution		:  NVIDIA Deep Learning Institute
+
+Certification 		:  NVIDIA DLI Certificate—Getting Started with AI on Jetson Nano
+Institution		:  NVIDIA Deep Learning Institute
+
+Certification 		:  Data Engineering on Microsoft Azure
+Institution		:  RPS Consulting PVT Ltd, Chennai.
+
+Certification 		:  Database Administration-Oracle 10g
+Institution		:  NIIT, Chennai.
+
+Certification 		:  Database Management System
+Institution		:  NPTEL, IIT Kharapur.
+
+Skill Sets: 
+
+Languages	C, Python
+Web Technologies	Streamlit, Gradio
+IDE	VS code, Cursor
+Databases	My SQL, Vector DB 
+Operating Systems	Microsoft Windows Platforms, Linux—Ubuntu
+
+Pattern Filed:
+
+Title				:  Firewall Integration with Real-Time Monitoring and Threat Management System
+Application No		:  202441015761
+Date of registration		:  06 March 2024
+
+Title				:  Vision-Based Transcriber for Visually Impaired 
+Application No		:  202241074768
+Date of registration		:  23 December 2022
+Title	:  Attendance Monitoring System with Face Recognition, Iris, Mask, and  Body Temperature Detection 
+Application No		:  202241007691
+Date of registration		:  14 December 2022
+
+
+Journal:
+
+●	Have published the paper on “Advanced financial security system using smart contract in private ethereum consortium blockchain with hybrid optimization strategy” in Scientific Reports 15, 6764 (2025). https://doi.org/10.1038/s41598-025-89404-3.
+●	Have published the paper on “Deep learning neural networks with dual-view pyramid pooling algorithm for better confidence calibration and medical image classification” in Advances in Electrical and Computer Technologies, CRC Press, Pages: 578-588, Jul 4, 2025.
+●	Have published the paper on “Smart Contract-Based Advanced Financial Security System: A Literature Review” in IEEE Xplore ISBN: 979-835030570-8, December 2023.
+●	Have published the paper on “Innovative Online Ticketing Model on an Intelligent Public Blockchain.” in Lecture Notes on Data Engineering and Communications Technologies Volume 171, Pages 327–345, June 2023.
+●	Have published the paper on “Electroencephalogram Data Analysed Through the Lens of Machine Learning to Detect Signs of Epilepsy” in IEEE Xplore ISSN: 978-1-6654-9708-4, December 2022.
+●	Have published the paper on “Machine Learning Based Epilepsy Detection Using EEG Data” in the Indian Journal of Natural Sciences (47341-47344) VOL.13 ISSUE 73 ISSN: 0976-0997, September 2022.
+●	Have published the paper on “AUTO-MATIC LEAF DISEASE DETECTION” in International Journal of Recent Trends in Engineering & Research, Volume 07, Issue 01; [ISSN: 2455-1457], January- 2021
+●	Have published the paper on “Sequestrate protection and efficient invasion elusion for cloudlet-mesh based iatrical data sharing” in International Journal of Scientific & Engineering Research, ISSN 2229-5518, Volume 9, Issue 3, March 2018. 
+●	Have published the paper on “Keyloggers Software Detection Techniques” in IEEE Xplore, Electronic ISBN: 978-1-4673-7807-9, Print on Demand (PoD) ISBN: 978-1-4673-7808-6 for presenting the paper at ISCO—2016 Karpagam College of Engineering, Coimbatore. 
+●	Have published the paper on “Identification of Key Loggers in Mobile Devices Using Support Vector Machine” in International Journal of Applied Engineering Research, ISSN 0973-4562 Vol.10 No.55 (2015) 
+●	Have published the paper on “An Effective Approach of Data Replication in Data Intensive Scientific Application” in International Journal of Advanced Engineering and Technology Research (2319-7782) Vol. 2, Issue 19, April 2013. 
+Conference:
+
+●	Have presented the paper on “SMART CONTRACT-BASED ADVANCED FINANCIAL SECURITY SYSTEM: A LITERATURE REVIEW” in the IEEE International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence, and Telecommunication Engineering, held at R.M.K. Engineering College, Chennai, November 2023.
+●	Have presented the paper on “INNOVATIVE ONLINE TICKETING MODEL ON AN INTELLIGENT PUBLIC BLOCKCHAINS” in the 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV), held at Francis Xavier Engineering College, Tirunelveli, February 2023.
+●	Have presented the paper on “ELECTROENCEPHALOGRAM DATA ANALYSED THROUGH THE LENS OF MACHINE LEARNING TO DETECT SIGNS OF EPILEPSY” in the 4th International Conference on Inventive Research in Computing Applications—ICIRCA 2022 held at RVS College Of Engineering & Technology, Coimbatore, September 2022.
+●	Have presented the paper on “THE ARTIFICIAL INTELLIGENCE PRIVACY PROTECTION IN CYBERSPACE” in Recent Innovations in Information and Computing Technologies held at Sethu Institute of Technology, Madurai, July 2022.
+●	Have presented the paper on “Keyloggers Software Detection Techniques” in the International Conference on ISCO-2016 held at karpagam Engineering College, Coimbatore.
+●	Have presented the paper on “Conciseness Agricultural Plenitude Detection Vicissitude Eclectic Transformation Model” in the International Conference on ICIEST-2019 held at Kalasalingam Institute of Technology, Virudhunagar.
+Workshop & FDP 
+
+●	Have participated in various workshops and faculty development programs in several colleges.
+●	Have participated in various TEQIP-II and AICTE Sponsored short-term hands-on training programs.
+Technical Membership
+
+Life Member in the Indian Society for Technical Education (ISTE) – No: LM 109360
+
+Extra-Curricular Activities
+
+●	Have obtained ‘A’ grade certificate in NSS
+●	Have completed the Brahma Gnanam course at the Temple of Consciousness, Aliyar.
+●	Actively participated in inter-college cricket matches.
+
+
+
+Personal Details:
+	
+Date of Birth		:	14 August 1989 		
+Father’s Name	:	Mr. S. Chelladurai
+Gender		:	Male
+Marital status		:	Married 			
+Nationality		:	Indian				
+Religion		:	Hindu
+Languages Known	:	English and Tamil (To Read, Write and Speak)
+Address  		:  	4/288, Alager singam patti,
+				Collector office post,
+				Dindigul—624004.
+I hereby declare that the information furnished above is correct and true to the best of my knowledge.
+
+
+
+
+
+
+
+
+
+Date:                                                                                                               
+                                                                                                                              (PRABANAND S C)
+Place:
